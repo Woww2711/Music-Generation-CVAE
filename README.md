@@ -12,3 +12,8 @@
     - Label each file with 1 out of 4 emotions: happy, angry, sad and relax
 3. Build CVAE model and train
 4. Generate music
+
+## Training evironment
+- Google Colab
+- GPU: T4
+- Training duration: ~20 min / 2000 epochs
