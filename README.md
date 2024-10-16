@@ -16,4 +16,4 @@
 ## Training evironment
 - Google Colab
 - GPU: T4
-- Training duration: ~20 min / 2000 epochs
+- Training duration: ~5 min / 400 epochs
